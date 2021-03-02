@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "事件上报",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48d69f",
+  "usingComponents": {
+    "upd": "/components/upd/upd"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48d69f",
+  "usingComponents": {
+    "mes": "/components/mes/mes"
+  }
+}

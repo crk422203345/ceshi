@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "任务列表",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48d69f",
+  "usingComponents": {
+    "aloys-tab": "/components/aloys-tab/aloys-tab"
+  }
+}
